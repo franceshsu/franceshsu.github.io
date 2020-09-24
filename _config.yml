@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Site Title
+title: Frances Hsu
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -8,11 +8,11 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Frances Hsu
   avatar: bio-photo.jpg
-  bio: Ms. Hsu received her BS in Biochemistry and Cell Biology with minor in Business from Rice University in 2013. Throughout her undergraduate studies, she conducted research under the direction of Dr. Jill Schumacher at the MD Anderson Cancer Center. Using C. elegans as model, she employed site directed mutagenesis to study Tousled kinase’s role in chromosome separation during anaphase. While volunteering at the National Centre for Maternal and Children’s Health in Mongolia, she realized health and science research policy’s impact on public health. After graduation, Frances secured employment with PCORI in Washington DC; she continued her career and moved to Oregon to accept a position at University of Oregon's Health & Science Center in 2018.
+  bio: Frances Hsu is a National Library of Medicine pre-doctoral fellow in Health and Clinical Informatics major. She received a BS in Biochemistry & Cell Biology and MS in Bioscience and Health Policy from Rice University. Prior to joining the HCI program, Frances worked for the Patient-Centered Outcomes Research Institute (PCORI) in Washington, D.C., and then with the Pacific Northwest Evidence-based Practice Center (EPC). Her research interests include re-use of EHR data, patient-centered outcomes, and precision medicine.
   email: hsufr@ohsu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
-  linkedin: #username
+  linkedin: frances-hsu-3298036b
   github: #username
   orcid: 0000-0001-9459-1195
   researchgate: #username
