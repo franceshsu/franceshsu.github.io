@@ -6,15 +6,15 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Frances Hsu
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: Ms. Hsu received her BS in Biochemistry and Cell Biology with minor in Business from Rice University in 2013. Throughout her undergraduate studies, she conducted research under the direction of Dr. Jill Schumacher at the MD Anderson Cancer Center. Using C. elegans as model, she employed site directed mutagenesis to study Tousled kinase’s role in chromosome separation during anaphase. While volunteering at the National Centre for Maternal and Children’s Health in Mongolia, she realized health and science research policy’s impact on public health. After graduation, Frances secured employment with PCORI in Washington DC; she continued her career and moved to Oregon to accept a position at University of Oregon's Health & Science Center in 2018.
+  email: hsufr@ohsu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
   github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  orcid: 0000-0001-9459-1195
   researchgate: #username
   mendeley: #username
   google:
